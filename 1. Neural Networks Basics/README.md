@@ -1,0 +1,3 @@
+### **Project 1: Neural Networks Basics**
+
+In this project, we delve into the fascinating world of neural networks, specifically focusing on three fundamental architectures: **Perceptron**, **Adaline**, and **Madaline**. Our primary objective is **classification**, a critical task in machine learning. These neural networks serve as the building blocks for understanding more complex models. By implementing and studying them, we gain insights into their inner workings, activation functions, and training processes. Through this exploration, we pave the way for more advanced applications and dive deeper into the realm of artificial intelligence.

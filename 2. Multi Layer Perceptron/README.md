@@ -1,0 +1,5 @@
+### **Project 2: Multi Layer Perceptron and Dimension Reduction Algorithms**
+
+In this project, we delve into the fascinating realm of **Multilayer Perceptron (MLP)** networks. These versatile neural architectures serve as powerful tools for both **classification** and **regression** tasks. By implementing MLPs, we explore their intricate layers, activation functions, and training processes. Whether predicting categorical labels or continuous values, MLPs offer flexibility and adaptability.
+
+In the latter part of our project, we shift our focus to **dimension reduction algorithms**. These techniques play a crucial role in simplifying high-dimensional data while preserving essential information. Our exploration begins by assessing the **feature importance** using regression models and decision trees. We identify which features significantly contribute to the task at hand. Finally, we employ the **backward elimination algorithm** to iteratively remove less relevant features, enhancing model efficiency and interpretability.

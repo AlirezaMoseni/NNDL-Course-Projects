@@ -1,0 +1,3 @@
+### **Project 4: YOLOv5**
+
+This project demonstrates the practical applications of YOLOv5, a state-of-the-art object detection model. The focus here is on a game of bocce ball. The researchers created a custom dataset consisting of images from a bocce ball court. This dataset includes images of the colored balls themselves (white, red, green, blue, and yellow) along with an additional class for the vertical lines marking the boundaries of the court. By training YOLOv5 on this dataset, the model learns to identify and locate each ball on the court, along with its specific color. This information can be incredibly valuable for analyzing bocce ball games, potentially tracking ball movement and calculating scores automatically.

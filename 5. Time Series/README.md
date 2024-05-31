@@ -1,0 +1,5 @@
+### **Project 5: Time Series**
+
+Deep learning's ability to handle sequential data makes it a powerful tool for time series analysis. This project highlights that versatility by applying a deep network to two very different tasks. Firstly, the network was trained to predict the future price of Bitcoin. Bitcoin's price movements are complex and influenced by various factors. By analyzing historical price data, the deep network can learn underlying patterns and make predictions about future prices. This information can be valuable for investors and traders.
+
+In the second part of the project, the same deep network was employed for sentiment analysis of textual data. Sentiment analysis aims to understand the emotional tone of a text, whether positive, negative, or neutral. By processing text data, the deep network can learn the nuances of language and identify sentiment within written content. This could be applied to social media analysis, customer reviews, or even financial news articles.
